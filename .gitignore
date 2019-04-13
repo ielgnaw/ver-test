@@ -1,3 +1,5 @@
 hubhub
-*internal*
-lab.internal1.js
+**/*internal*
+/**lab.internal1.js
+**/*.internal.js
+hub1
